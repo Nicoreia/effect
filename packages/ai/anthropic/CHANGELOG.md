@@ -1,5 +1,15 @@
 # @effect/ai-anthropic
 
+## 0.26.1
+
+### Patch Changes
+
+- [#6288](https://github.com/Effect-TS/effect/pull/6288) [`cfa2bbf`](https://github.com/Effect-TS/effect/commit/cfa2bbf7f290e88e2c57480eb9b2d7b058389cda) Thanks @davidgoli! - populate `cachedInputTokens` in streaming responses from `cache_read_input_tokens`
+
+- Updated dependencies [[`95c7d2e`](https://github.com/Effect-TS/effect/commit/95c7d2ed435cf4cc954cf015304952a0fffbebc7), [`99d5575`](https://github.com/Effect-TS/effect/commit/99d5575a1401b375b5a73f87fb5bf7e46c372f2f)]:
+  - effect@3.21.5
+  - @effect/platform@0.96.3
+
 ## 0.26.0
 
 ### Patch Changes
